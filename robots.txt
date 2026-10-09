@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://gaelastorga.github.io/urbanlytica-landing/sitemap.xml
+Sitemap: https://urbanlytica.com/sitemap.xml
